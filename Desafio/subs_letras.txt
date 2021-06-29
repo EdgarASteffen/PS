@@ -1,0 +1,10 @@
+name_errado = input()
+
+name_certo = (name_errado.replace("æ","a"))
+name_certo = (name_certo.replace("¢","c"))
+name_certo = (name_certo.replace("ø","o"))
+name_certo = (name_certo.replace("ß","b"))
+
+print(name_certo)
+
+novo_nome = input()

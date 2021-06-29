@@ -1,0 +1,20 @@
+W3Schools:
+
+str replace = https://www.w3schools.com/python/python_strings.asp
+input = https://www.w3schools.com/python/python_user_input.asp
+converter str to float = https://www.w3schools.com/python/python_datatypes.asp
+functions = https://www.w3schools.com/python/python_functions.asp
+
+YouTube:
+
+ler json = https://www.youtube.com/watch?v=pHOoCzvfDHY
+escrever json = https://www.youtube.com/watch?v=p3cH8i0ON48
+
+Pesquisas Google:
+
+https://www.google.com/search?client=opera-gx&q=alterar+dados+json+python&sourceid=opera&ie=UTF-8&oe=UTF-8
+https://hkotsubo.github.io/blog/2019-04-13/como-ler-e-manipular-um-json#python
+
+stackoverflow:
+
+formatar print duas casas decimais - https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
